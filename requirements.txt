@@ -1,0 +1,15 @@
+flask~=2.0.1
+pytest
+pydantic[email]
+jsonschema
+requests
+feedparser
+Flask-SQLAlchemy
+flask-migrate
+flask-moment
+flask-mail
+flask-wtf
+python-dotenv
+click~=8.0.1
+flask_bootstrap
+WTForms~=2.3.3
